@@ -28,12 +28,12 @@ public class SearchAnItem {
 		};
 		private static final String AWS_ASSOCIATETAG[] = {
 				// Set your Associate tags here. You need 6 tags each of countries.
-				"AWS_ASSOCIATETAG_1_HERE",
-				"AWS_ASSOCIATETAG_2_HERE",
-				"AWS_ASSOCIATETAG_3_HERE",
-				"AWS_ASSOCIATETAG_4_HERE",
-				"AWS_ASSOCIATETAG_5_HERE",
-				"AWS_ASSOCIATETAG_6_HERE"
+				"AWS_ASSOCIATETAG_USA_HERE",
+				"AWS_ASSOCIATETAG_CANADA_HERE",
+				"AWS_ASSOCIATETAG_UK_HERE",
+				"AWS_ASSOCIATETAG_DE_HERE",
+				"AWS_ASSOCIATETAG_FR_HERE",
+				"AWS_ASSOCIATETAG_JPN_HERE"
 		};
 		private static final String ENDPOINT[] = {
 				// Setting Endpoints.
