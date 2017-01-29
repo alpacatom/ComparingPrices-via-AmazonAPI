@@ -13,6 +13,11 @@
  - Amazon associates tags for each Amazons.
  - 2 Amazon AWS_Keys and AWs_Secret_Keys (For Japan and the others).
  - CurrencyAPI Key
- 
+
+# Comments
+ - This is my first time to write in Java, so if you have some questions or suggestions, please tell me.
+ - It sometimes clashes when the HTTP request is sent (I'm stil working for fixing).
+ - Future Works: Making more functions like "Checking the price of multiple items".
+
 # Links
  - An article will be added soon...
