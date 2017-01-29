@@ -6,7 +6,7 @@ import java.net.URL;
 
 public class Currency{
     // essential URL structure is built using constants
-    public static final String ACCESS_KEY = "ef0b83a8259f237265f5febbcdf4f75a";
+    public static final String ACCESS_KEY = "API_KEY";
     public static final String BASE_URL = "http://apilayer.net/api/";
     public static final String ENDPOINT = "live";
     public static final String CURRENCIES = "CAD,GBP,EUR,JPY";
