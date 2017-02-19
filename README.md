@@ -18,7 +18,10 @@
 Please set your keys in AmazonConstants class  of "SearchAnItem.java".
 
 # Sample
- - Prices of The big bang theory Blu-ray <br/>
+ - Prices of The big bang theory Blu-ray
+ - Total shows how cheap is it. therefore, the lower this value, the less expensive it means.
+ - Compared to Amazon.co.jp, 2,990 JPY (115*(85-59)) will be saved if you buy on Amazon.co.uk .
+ <br/>
 ![Prices of The big bang theory Blu-ray](https://qiita-image-store.s3.amazonaws.com/0/153487/a685d994-7992-dd7f-54f8-e4b33f78e468.png
  "sample")
 
