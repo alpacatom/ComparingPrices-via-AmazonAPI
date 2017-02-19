@@ -18,6 +18,7 @@
 Please set your keys in AmazonConstants class  of "SearchAnItem.java".
 
 # Sample
+ - Prices of The big bang theory Blu-ray
 ![Prices of The big bang theory Blu-ray](https://qiita-image-store.s3.amazonaws.com/0/153487/a685d994-7992-dd7f-54f8-e4b33f78e468.png
  "sample")
 
