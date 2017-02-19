@@ -17,10 +17,14 @@
 
 Please set your keys in AmazonConstants class  of "SearchAnItem.java".
 
+# Sample
+![Prices of The big bang theory Blu-ray](https://qiita-image-store.s3.amazonaws.com/0/153487/a685d994-7992-dd7f-54f8-e4b33f78e468.png
+ "sample")
+
 # Comments
  - This is my first time to write in Java, so if you have some questions or suggestions, please tell me.
  - It sometimes clashes when the HTTP request is sent (I'm still working for fixing).
  - Future Work: Making more functions. For example, "Checking the price of multiple items", "Converting URL to ASIN number", "Making it available to select a destination country (since Japan is only available right now)", and so on...
 
 # Links
- - An article will be added soon...
+ - http://qiita.com/alpacatom/items/f02233f0feea7cad9244 (In japanese)
